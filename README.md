@@ -6,9 +6,9 @@
 
 
 # Visual studio part for run web api
-Install .net core 3.1 SDK and hosting bundle
-Open package managment console
-select infrastructure project 
+Install .net core 3.1 SDK and hosting bundle, then 
+Open package managment console, then
+select infrastructure project , then
 Run `update-database`
 
 # Build
