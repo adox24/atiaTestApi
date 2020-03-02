@@ -1,0 +1,10 @@
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\bin\Debug\netcoreapp3.1\EmployeeTest.Core.deps.json
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\bin\Debug\netcoreapp3.1\EmployeeTest.Core.runtimeconfig.json
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\bin\Debug\netcoreapp3.1\EmployeeTest.Core.runtimeconfig.dev.json
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\bin\Debug\netcoreapp3.1\EmployeeTest.Core.dll
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\bin\Debug\netcoreapp3.1\EmployeeTest.Core.pdb
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\obj\Debug\netcoreapp3.1\EmployeeTest.Core.csprojAssemblyReference.cache
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\obj\Debug\netcoreapp3.1\EmployeeTest.Core.AssemblyInfoInputs.cache
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\obj\Debug\netcoreapp3.1\EmployeeTest.Core.AssemblyInfo.cs
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\obj\Debug\netcoreapp3.1\EmployeeTest.Core.dll
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Core\obj\Debug\netcoreapp3.1\EmployeeTest.Core.pdb

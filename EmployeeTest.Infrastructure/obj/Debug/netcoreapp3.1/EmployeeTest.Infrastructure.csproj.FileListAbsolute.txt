@@ -1,0 +1,13 @@
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.deps.json
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.runtimeconfig.json
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.runtimeconfig.dev.json
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.dll
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.pdb
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeTest.Core.dll
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\bin\Debug\netcoreapp3.1\EmployeeTest.Core.pdb
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.csprojAssemblyReference.cache
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.AssemblyInfo.cs
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.csproj.CopyComplete
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.dll
+C:\Users\adnan\source\repos\EmployeeTestAPI\EmployeeTest.Infrastructure\obj\Debug\netcoreapp3.1\EmployeeTest.Infrastructure.pdb
