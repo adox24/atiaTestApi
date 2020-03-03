@@ -31,15 +31,16 @@ namespace EmployeeTestAPI.Controllers
            return _userService.GetAllUsers();
         }
         [HttpPost("AddUser")]
-        public IActionResult AddUser([FromBody]UserRequest user)
+        public async Task<IActionResult> AddUser([FromBody]UserRequest user)
         {
-            _userService.AddUser(user);
-          return Ok( );
+           await _userService.AddUser(user);
+            return Ok();
         }
         [HttpPut("{id}")]
-        public IActionResult UpdateUser(Guid id, [FromBody]UserRequest user)
+        public async Task<IActionResult> UpdateUser(Guid id, [FromBody]UserRequest user)
         {
-            return Ok(_userService.UpdateUser(user, id));
+            await _userService.UpdateUser(user, id);
+            return Ok();
         }
         // DELETE: api/TodoItems/5
         [HttpDelete("{id}")]
