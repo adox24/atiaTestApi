@@ -44,9 +44,10 @@ namespace EmployeeTestAPI.Controllers
         }
         // DELETE: api/TodoItems/5
         [HttpDelete("{id}")]
-        public IActionResult Delete(Guid id)
+        public async Task<IActionResult> Delete(Guid id)
         {
-            return Ok(_userService.DeleteUser( id));
+            await _userService.DeleteUser(id);
+            return Ok();
 
         }
     }
